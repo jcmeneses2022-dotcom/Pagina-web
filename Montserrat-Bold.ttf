@@ -1,0 +1,16 @@
+
+#header-text-5 .bg-wrap {
+	background: #0e6c8b;
+}#desc-img-list-3col .bg-wrap {
+    background: #ffffff;
+}
+
+#team-2col-2 .bg-wrap {
+	background: #e1eef6;
+}#subscribe-field-3 .bg {
+    background-image: url('../images/bg-75.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}

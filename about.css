@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+           <meta charset="UTF-8">
+           <title>Services</title>
+           
+           <base href="" target="_blank">
+           <meta name="keywords" content="" />
+           <meta name="description" content="" />
+           <meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover">
+		<link rel="stylesheet" href="css/fonts.css" />
+		<link rel="stylesheet" href="css/bootstrap.weber.css" />
+		<link rel="stylesheet" href="css/fx.css" />
+		<link rel="stylesheet" href="css/owl.carousel.css" />
+           <link rel="stylesheet" href="css/custom.css" />
+		<link rel="stylesheet" href="css/services.css" />
+
+       </head>
+	   <body class="light-page">
+		<div id="wrap">
+			<nav id="nav-logo-menu-btn" class="navbar navbar-expand-lg light shadow padding sticky-top fixed-top">
+    			<div class="container-fluid">
+        			<div class="row align-items-center">
+            			<div class="col-auto col-lg-2">
+                			<a class="navbar-brand" href="#">
+                    			<img src="images/logo-2.png" height="40px" class="mw-100 mt-0" alt="" srcset="">
+                			</a>
+            			</div>
+            			<div class="col-auto ml-auto hidden-lg">
+                			<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target=".main-menu-collapse" aria-controls="navbarMenuContent" aria-expanded="false" aria-label="Toggle navigation"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+            			</div>
+            			<div class="col-lg-8 collapse navbar-collapse main-menu-collapse">
+                			<ul class="navbar-nav ml-auto mr-auto">
+                    			<li class="nav-item active">
+                        			<a class="nav-link smooth" href="index.html" target="_self">Home</a>
+                    			</li>
+                    			<li class="nav-item">
+                        			<a class="nav-link smooth" href="services.html" target="_self">Our Services</a>
+                    			</li>
+                    			<li class="nav-item">
+                        			<a class="nav-link smooth" href="properties.html" target="_self">Properties</a>
+                    			</li>
+                    			<li class="nav-item">
+                        			<a class="nav-link smooth" href="about.html" target="_self">About</a>
+                    			</li>
+                    			<li class="nav-item">
+                        			<a class="nav-link smooth" href="contact-us.html" target="_self">Contact</a>
+                    			</li>
+                			</ul>
+            			</div>
+            			<div class="col-lg-2 collapse navbar-collapse main-menu-collapse justify-content-lg-end">
+               			<div class="btn-group d-inline-flex">
+                     			<a class="btn btn-primary fx-btn-pill fx-btn-blick" href="#" style="background-color: rgb(16, 109, 140); border-color: rgb(255, 255, 255); overflow: visible;"><strong class="">Get in Touch!</strong></a>
+                			</div>
+            			</div>
+        			</div>
+    			</div>
+    			<div class="bg-wrap">
+        			<div class="bg"></div>
+    			</div>
+			</nav><header id="header-text-5" class="pt-50 pb-50 light pt-lg-75 pb-lg-50 pt-md-75 pb-md-75">
+    			<div class="container">
+        			<div class="row align-items-center">
+            			<div class="col-md-auto order-md-2">
+                
+            			</div>
+            			<div class="col-md order-md-1">
+                			<h1 style="color: rgb(255, 255, 255); font-family: Poppins; font-style: normal; font-weight: normal;"><b class="">Services</b></h1>
+                			<h4 class="text-secondary">Multipurpose template</h4>
+            			</div>
+        			</div>
+    			</div>
+    			<div class="bg-wrap">
+        			<div class="bg"></div>
+    			</div>
+			</header><section id="benefits-2col-5" class="pt-50 pb-md-50 pt-md-100 light">
+    			<div class="container">
+        			<div class="row">
+            			<div class="col-lg-4" style="">
+                			<h3 class="" style=""><b class="">How we can help you.</b></h3>
+                			<svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 40 20" width="40" class="mb-30 svg-secondary"><path d="m0 8h40v4h-40z" fill-rule="evenodd"></path></svg>
+                			<p class="mb-50 text-secondary">In our work we try to use only the most modern, convenient and interesting solutions. We want the template you downloaded look unique.</p>
+                			<div class="content-box mb-30 d-flex">
+                    			<div class="mr-20">
+                        			<img class="mb-20 rounded-circle" src="images/avatar-3.jpg" alt="icon" width="48px" height="48px" srcset="">
+                    			</div>
+                    			<div>
+                        			<p class="">In our work we try to use only the most modern, convenient and interesting solutions. </p>
+                        			<p class="blockquote-footer text-secondary small">Sarah Doe</p>
+                    			</div>
+                			</div>
+                			<div class="content-box mb-30 mb-lg-0 d-flex">
+                    			<div class="mr-20">
+                        			<img class="mb-20 rounded-circle" src="images/avatar-1.jpg" alt="icon" width="48px" height="48px" srcset="">
+                    			</div>
+                    			<div class="">
+                        			<p class="">We want the template you downloaded look unique and new for such a long time as it is possible.</p>
+                        			<p class="blockquote-footer text-secondary small">Satah Doe</p>
+                    			</div>
+                			</div>
+            			</div>
+            			<div class="col-md col-lg-4">
+                			<div class="content-box padding-x2 shadow bg-default mb-50" style="">
+                    			<svg xmlns="http://www.w3.org/2000/svg" width="48px" height="48px" viewBox="0 0 512 512" enable-background="new 0 0 64 64" class="mb-30 icon svg-secondary" srcset="" style="fill: rgb(12, 155, 203);"><path d="M256 72c101.689 0 184 82.295 184 184 0 101.689-82.295 184-184 184-101.689 0-184-82.295-184-184 0-101.689 82.295-184 184-184m0-64C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 184c35.29 0 64 28.71 64 64s-28.71 64-64 64-64-28.71-64-64 28.71-64 64-64m0-64c-70.692 0-128 57.308-128 128s57.308 128 128 128 128-57.308 128-128-57.308-128-128-128z"></path></svg>
+                    			<h4 class="mb-10" style="color: rgb(16, 109, 140);"><strong class="">Property Listings</strong></h4>
+                    			<p class="mb-30">We showcase your properties on top platforms with professional photos and descriptions.</p>
+                    
+                			</div>
+                			<div class="content-box padding-x2 shadow bg-default mb-50" style="">
+                    			<svg xmlns="http://www.w3.org/2000/svg" width="48px" height="48px" viewBox="0 0 576 512" enable-background="new 0 0 64 64" class="mb-30 icon svg-secondary" srcset="" style="fill: rgb(12, 155, 203);"><path d="M576 240c0 115-129 208-288 208-48.3 0-93.9-8.6-133.9-23.8-40.3 31.2-89.8 50.3-142.4 55.7-5.2.6-10.2-2.8-11.5-7.7-1.3-5 2.7-8.1 6.6-11.8 19.3-18.4 42.7-32.8 51.9-94.6C21.9 330.9 0 287.3 0 240 0 125.1 129 32 288 32s288 93.1 288 208z" class=""></path></svg>
+                    			<h4 class="mb-10" style="color: rgb(16, 109, 140);"><strong class="">Walkthroughs</strong></h4>
+                    			<p class="mb-30" style="">Let buyers explore properties remotely with immersive virtual experiences that boost engagement.</p>
+                    
+                			</div>
+            			</div>
+            			<div class="col-md col-lg-4">
+                			<div class="content-box padding-x2 shadow bg-default mb-50" style="">
+                    			<svg xmlns="http://www.w3.org/2000/svg" width="48px" height="48px" viewBox="0 0 576 512" enable-background="new 0 0 64 64" class="mb-30 icon svg-secondary" srcset="" style="fill: rgb(12, 155, 203);"><path d="M552 288c13.255 0 24 10.745 24 24v136h-96v-64H96v64H0V88c0-13.255 10.745-24 24-24h48c13.255 0 24 10.745 24 24v200h456zM192 96c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80zm384 128c0-53.019-42.981-96-96-96H312c-13.255 0-24 10.745-24 24v104h288v-32z" class=""></path></svg>
+                    			<h4 class="mb-10" style="color: rgb(16, 109, 140);"><strong class="">Home Valuation</strong></h4>
+                    			<p class="mb-30" style="">Get a precise and data-driven estimate of your property’s market value to price it right.</p>
+                    
+                			</div>
+                			<div class="content-box padding-x2 shadow bg-default mb-50" style="">
+                    			<svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 0 448 512" width="48px" enable-background="new 0 0 64 64" class="mb-30 icon svg-secondary" srcset="" style="fill: rgb(12, 155, 203);"><path d="m436 480h-20v-456c0-13.255-10.745-24-24-24h-336c-13.255 0-24 10.745-24 24v456h-20c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zm-308-404c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12z" class=""></path></svg>
+                    			<h4 class="mb-10" style="color: rgb(16, 109, 140);"><strong class="">Rental Management</strong></h4>
+                    			<p class="mb-30" style="">From tenant screening to rent collection, we manage your rental properties so you don’t have to.</p>
+                    
+                			</div>
+            			</div>
+        			</div>
+    			</div>
+    			<div class="bg-wrap">
+        			<div class="bg"></div>
+    			</div>
+			</section><section id="price-3col" class="pt-75 pb-75 pt-lg-100 pb-lg-100 text-center light">
+    			<div class="container">
+        			<div class="row border-grid">
+            			<div class="col-12">
+                			<h3 class=""><strong>Prices</strong></h3>
+                			<svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 40 20" width="40" class="mb-50 svg-secondary"><path d="m0 8h40v4h-40z" fill-rule="evenodd"></path></svg>
+            			</div>
+            			<div class="col-lg-4 no-gutters">
+                			<div class="content-box bg-default padding-x3 rounded" style="background-color: rgb(225, 238, 246);">
+                    
+                    			<h4 class="">Plan 1</h4>
+                    			<h2 class="mb-50">FREE</h2>
+                    			<p class="mb-50">Includes property listings, standard marketing, and email inquiries.</p>
+                    			<a href="#" class="btn btn-lg btn-primary fx-btn-pill" style="background-color: rgb(16, 109, 140); border-color: rgb(16, 109, 140);"><span>Try now</span></a>
+                			</div>
+            			</div>
+            			<div class="col-lg-4 no-gutters">
+                			<div class="content-box padding-x3 bg-default rounded" style="background-color: rgb(209, 235, 251);">
+                    			<img class="position-absolute r-0 t-0" src="images/stamp-1.png" height="100px" alt="Best" srcset="">
+                    
+                    			<h4 class="">Plan 2</h4>
+                    			<h2 class="mb-50" style=""><strong class="">$899.99</strong></h2>
+                    			<p class="mb-50" style="">Adds home valuation reports, premium listing placement, and virtual tours.</p>
+                    			<a href="#" class="btn btn-lg btn-primary fx-btn-pill" style="border-color: rgb(16, 109, 140); background-color: rgb(16, 109, 140);"><span>Buy now</span></a>
+                			</div>
+            			</div>
+            			<div class="col-lg-4 no-gutters">
+                			<div class="content-box bg-default padding-x3 rounded" style="background-color: rgb(225, 238, 246);">
+                    
+                    			<h4 class="">Plan 3</h4>
+                    			<h2 class="mb-50"><strong class="">$289.99</strong></h2>
+                    			<p class="mb-50" style="">Full-service package with everything from marketing to rental management and dedicated support.</p>
+                    			<a href="#" class="btn btn-lg btn-secondary fx-btn-pill" style="border-color: rgb(16, 109, 140); background-color: rgb(16, 109, 140);"><span>Buy now</span></a>
+                			</div>
+            			</div>
+            			<div class="col-12">
+                			<p class="text-secondary mt-50">*In our work we try to use only the most modern, convenient and interesting solutions.</p>
+            			</div>
+        			</div>
+    			</div>
+    			<div class="bg-wrap">
+        			<div class="bg"></div>
+    			</div>
+			</section><section id="subscribe-field-3" class="text-center pt-100 overall light">
+    			<div class="container">
+        			<div class="row">
+            			<div class="col-md-8 ml-auto mr-auto">
+                			<h3 class="" style="color: rgb(16, 109, 140);"><b>Stay in touch!</b></h3>
+                			<p class="">We are going to provide you with actual and important for you information without spam or fluff.</p>
+                			<svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 40 20" width="40" class="icon svg-secondary mb-30"><path d="m0 8h40v4h-40z" fill-rule="evenodd"></path></svg>
+                			<form action="scripts/request.php" class="contact_form form-inline mb--50 bg-default padding-x2 shadow" id="subscribe-field-3-form" novalidate="novalidate">
+                    			<div class="form-group email-field-group"><input type="email" class="form-control" placeholder="Email Address*" name="EMAIL" size="10"></div>
+                    			<button type="submit" data-loading-text="•••" data-complete-text="Completed!" data-reset-text="Try again later..." class="btn btn-link"><strong>Subscribe</strong><svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 0 16 16" width="16px" class="icon icon-pos-right svg-secondary"><path d="m4.82528129 7h11.17471871v2h-11.16842704l3.23949485 3.2394949-1.41421356 1.4142135-4.24264069-4.24264067-1.41421356-1.41421357 5.65685425-5.65685425 1.41421356 1.41421357z" fill-rule="evenodd" transform="matrix(-1 0 0 1 17 0)"></path></svg></button>
+                			</form>
+            			</div>
+        			</div>
+    			</div>
+    			<div class="bg-wrap">
+        			<div class="bg"></div>
+    			</div>
+			</section><footer id="footer-text-logo-text" class="pb-75 text-center pt-75 light">
+    			<div class="container">
+        			<div class="row align-items-center">
+           			<div class="col-md order-lg-1 text-md-right">
+                			<ul class="list-unstyled list-inline padding-list" style="color: rgb(68, 68, 68); font-family: Poppins;">
+                    			<li class=""><a href="#" class=""><b>Home</b></a></li>
+                    			<li class="" style=""><a href="#" class="" style=""><b>Services</b></a></li>
+                    			<li class="" style=""><a href="#" style=""><b>Properties</b></a></li>
+                    
+                			</ul>
+            			</div>
+            			<div class="col-md order-md-3 text-md-left">
+                			<ul class="list-unstyled list-inline padding-list">
+                    			<li class="" style=""><a href="#" class="" style=""><b class="">About</b></a></li>
+                    			<li class="" style=""><a href="#" class="" style=""><b>Contact</b></a></li>
+                    			<li class="" style=""><a href="#" style=""><b>Policy</b></a></li>
+                    
+                			</ul>
+            			</div>
+            			<div class="col-md-auto order-md-2">
+                			<img class="mw-100 mt-30 mt-md-0" src="images//uploaded/2/logo_here.png" height="60px" alt="logo" srcset="" style="border-style: solid; border-color: rgb(187, 195, 204); border-radius: 0px; border-width: 0px;">
+            			</div>
+            			<div class="col-12 order-md-4" style=""><p class="mb-0 mt-50 text-secondary" style="">© html-css-templates. All rights reserved.</p></div>
+        			</div>
+    			</div>
+    			<div class="bg-wrap">
+        			<div class="bg"></div>
+    			</div>
+			</footer>
+		</div>
+		<footer></footer>
+		<div class="modal-container"></div>
+		
+		
+		<script src="https://maps.googleapis.com/maps/api/js?key="></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+		<script src="js/jquery-2.1.4.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/owl.carousel.js"></script>
+		<script src="js/jquery.validate.min.js"></script>
+		<script src="js/jquery.smooth-scroll.min.js"></script>
+		<script src="js/custom.js"></script>
+		<script src="js/services.js"></script>
+	</body>
+</html>

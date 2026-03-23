@@ -1,0 +1,22 @@
+#header-text-3 .bg {
+    background-image: url('../images//uploaded/2/pexels-tkirkgoz-16615603.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}
+#clients-5col .bg-wrap{
+    background: #ffffff;
+}
+#chart-text-chart .bg-wrap {
+	background: #106d8c;
+}#subscribe-field-3 .bg {
+    background-image: url('../images/bg-75.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}
+#footer-text-logo-text .bg-wrap {
+	background: #ffffff;
+}
